@@ -1,0 +1,17 @@
+C:\Users\Luan\Desktop\Faculdade\POO\projeto_pbl\projeto_pbl\bin\Debug\net6.0-windows\projeto_pbl.exe
+C:\Users\Luan\Desktop\Faculdade\POO\projeto_pbl\projeto_pbl\bin\Debug\net6.0-windows\projeto_pbl.deps.json
+C:\Users\Luan\Desktop\Faculdade\POO\projeto_pbl\projeto_pbl\bin\Debug\net6.0-windows\projeto_pbl.runtimeconfig.json
+C:\Users\Luan\Desktop\Faculdade\POO\projeto_pbl\projeto_pbl\bin\Debug\net6.0-windows\projeto_pbl.dll
+C:\Users\Luan\Desktop\Faculdade\POO\projeto_pbl\projeto_pbl\bin\Debug\net6.0-windows\projeto_pbl.pdb
+C:\Users\Luan\Desktop\Faculdade\POO\projeto_pbl\projeto_pbl\obj\Debug\net6.0-windows\projeto_pbl.Form1.resources
+C:\Users\Luan\Desktop\Faculdade\POO\projeto_pbl\projeto_pbl\obj\Debug\net6.0-windows\projeto_pbl.csproj.GenerateResource.cache
+C:\Users\Luan\Desktop\Faculdade\POO\projeto_pbl\projeto_pbl\obj\Debug\net6.0-windows\projeto_pbl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luan\Desktop\Faculdade\POO\projeto_pbl\projeto_pbl\obj\Debug\net6.0-windows\projeto_pbl.AssemblyInfoInputs.cache
+C:\Users\Luan\Desktop\Faculdade\POO\projeto_pbl\projeto_pbl\obj\Debug\net6.0-windows\projeto_pbl.AssemblyInfo.cs
+C:\Users\Luan\Desktop\Faculdade\POO\projeto_pbl\projeto_pbl\obj\Debug\net6.0-windows\projeto_pbl.csproj.CoreCompileInputs.cache
+C:\Users\Luan\Desktop\Faculdade\POO\projeto_pbl\projeto_pbl\obj\Debug\net6.0-windows\projeto_pbl.dll
+C:\Users\Luan\Desktop\Faculdade\POO\projeto_pbl\projeto_pbl\obj\Debug\net6.0-windows\refint\projeto_pbl.dll
+C:\Users\Luan\Desktop\Faculdade\POO\projeto_pbl\projeto_pbl\obj\Debug\net6.0-windows\projeto_pbl.pdb
+C:\Users\Luan\Desktop\Faculdade\POO\projeto_pbl\projeto_pbl\obj\Debug\net6.0-windows\projeto_pbl.genruntimeconfig.cache
+C:\Users\Luan\Desktop\Faculdade\POO\projeto_pbl\projeto_pbl\obj\Debug\net6.0-windows\ref\projeto_pbl.dll
+C:\Users\Luan\Desktop\Faculdade\POO\projeto_pbl\projeto_pbl\obj\Debug\net6.0-windows\projeto_pbl.Properties.Resources.resources
